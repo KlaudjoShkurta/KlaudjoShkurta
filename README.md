@@ -16,7 +16,7 @@ I am currently enhancing my skills by undertaking the "Android Basics with Compo
 ##
 ### 📜 Education and Certification
 **Vellum Certified Android Applications Developer**<br/>
-Vellum Global Educational Services | Jan 23, 2023<br/>
+Vellum Global Educational Services | Jan 23, 2023<br/><br/>
 Modules covered:
 - Introduction to Kotlin
 - Kotlin Operations & Operators
