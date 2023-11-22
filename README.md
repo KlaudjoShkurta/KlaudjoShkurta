@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Klaudjo Shkurta.
+### Hi there 👋 my name is Klaudjo Shkurta!
 I'm a self-taught **Junior Android Engineer** with a passion for creating innovative and user-friendly mobile applications. I have a solid foundation in Android development with Kotlin, backed by a certification from **Vellum Global Educational Services** after completing a rigorous 3-month course.
 
 ##
